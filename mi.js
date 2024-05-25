@@ -13,18 +13,18 @@ let matrix = [];
 let prevMatrix; 
   
 let colors = [ 
-    "#caf0f8", 
-    "#90e0ef", 
-    "#00b4d8", 
-    "#0077b6", 
-    "#03045e", 
-    "#023047", 
-    "#fca311", 
-    "#14213d", 
-    "#e63946", 
-    "#ffc300", 
-    "#6a040f", 
-    "#000000", 
+   "white", 
+    "green", 
+    "purple", 
+    "pink", 
+    "yellow", 
+    "red", 
+    "grey", 
+    "white", 
+    "brown", 
+    "oxblood", 
+    "cream white", 
+    "light green", 
 ]; 
   
 // Create the starting game grid. 
